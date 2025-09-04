@@ -4,7 +4,7 @@
 
 ## Introduction
 In this project, I'll attempt to make an electric skateboard from scratch.
-My goal is to improve my hardware skills while creating something that can resist harsh weather and wear over time.
+My goal is to improve my hardware skills while creating something that can resist harsh weather and wear over time. It's also really important that I try to piece everything together, not only following instructions or pre-made kits.
 
 I will document my process in the **`diary/`** directory, where I'll share every step, challenge and lesson learned during the build.
 
