@@ -50,11 +50,33 @@ Limitations:
 - Less room for battery and ESC, which may limit range.    
 
 This choice reflects the learning-driven nature of the project: start small, cheap, and challenging — and evolve later if needed.
+## Pick
+The skate looks very good, but it's small so stability might be an issue.
 # Motor
-# Battery
+Here, the main categories are **hub motor** or **belt drive**. Given that my build is rather small (hub motors are smaller than belt drive), and hub motors have a cheaper price. I will choose a **hub motor**. Furthermore, a hub motor has less maintenance
+## Hub motor pick
+I found a 72 mm single hub motor kit with truck included for around 64€ 
+- Power: 350 W  
+- Wheel size: 72 mm  
+- Advertised top speed: 25 km/h  
 
+This motor fits my build because it’s compact and comes with the truck already, avoiding compatibility issues. It also keeps the cost very low, which matches the spirit of this project 
+Limitations:  
+- 350 W is not very powerful, so it may struggle on hills  
+- Single motor setup, so traction is limited
+- Likely sensorless, which can make starts less smooth  
+
+Even with these drawbacks, it’s the right choice for my first version. For short commutes in flat terrain, it should be enough. If later I feel the need for more power, I can always upgrade to a stronger hub motor
 # ESC
-A good idea is to buy a regular ESC + controller in Aliexpress. It's around 60€
-# Mount, pulley system
+I’ll use a single drive ESC + remote from AliExpress (around 60€)  
+- Rated for 36V (10S), 12A continuous, ~430W max 
+- Compatible with hub motors, includes remote and protections (over-voltage, over-current, etc.)  
+It’s not very powerful, but enough for a 350W hub motor. It may feel weak on hills, but for flat terrain and short commutes it should work fine 
+# Battery
+I’ll go for a 10S2P (36V) pack around 4.4Ah (~158Wh)  
+- Compact size (134×75×58 mm), lighter than bigger packs  
+- Enough capacity for ~8–10 km, which covers my 6 km daily commute 
+- 20A continuous discharge, so no bottleneck for my motor/ESC 
+I’ll need to charge it almost every day, but it’s the best balance between portability and usability for a small cruiser build
 # External Cover
 
