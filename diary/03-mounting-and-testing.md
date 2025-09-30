@@ -30,4 +30,5 @@ But when it's too steep, it struggles quite a bit
 ## Next Steps
 - Buy a charger (42V, 2A) to use the battery daily.  
 - Design a proper cover for ESC + battery.  
-- Test the range in my daily route to university.  
+- Test the range in my daily route to university. 
+- Change front wheels for 72mm
