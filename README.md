@@ -1,5 +1,7 @@
 # DIY Electric Skateboard Project
 
+🎥 **Video:** [YOUTUBE VIDEO](https://youtu.be/h1pzZBqLyHg)
+
 ## Current state
 ✅ **Build v1 complete – fully functional longboard setup.**  
 The board runs smoothly and has been tested on multiple rides.  
@@ -30,5 +32,4 @@ It’s a mix of electronics, mechanics, and creativity: a real hands-on build th
 The board now works perfectly for my short daily route to university.  
 Future improvements could include a custom 3D-printed enclosure, a better charger, and a more powerful motor or ESC.
 
-🎥 **Video:** [YOUTUBE VIDEO](https://youtu.be/h1pzZBqLyHg)
 
